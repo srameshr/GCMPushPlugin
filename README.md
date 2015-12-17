@@ -21,6 +21,9 @@ This plugin was extended to support native iOS push notifications since the only
 - [Upcomings](#upcomings)
 - [LICENSE](#license)
 
+### Installing
+   Please follow <a href="https://github.com/gonzaloaune/GCMPushPlugin/issues/16">This thread</a> on how to install and trouble shoot this plugin. 
+   
 ##<a name="android-install"></a> Android installation
 
 Assuming you have your Cordova application up and running:
